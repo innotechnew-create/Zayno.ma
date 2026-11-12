@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#A00033">
+  <meta name="description" content="ZAYNO – Le bon choix, au bon prix. Découvrez notre marketplace au Maroc.">
+  <title>ZAYNO – Le bon choix, au bon prix.</title>
+  <link rel="icon" type="image/svg+xml" href="/assets/logo.svg">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <div class="top">🎁 Jusqu’à -20 % sur les jouets avec le code <strong>ZAYNO20</strong> · <a href="#catalogue">Acheter</a></div>
+  <header class="wrap header">
+    <a class="brand" href="#accueil"><img src="/assets/logo.svg" alt="Logo ZAYNO"><span>ZAYNO</span></a>
+    <form id="searchForm" class="search"><input id="searchInput" type="search" placeholder="Rechercher des produits…" aria-label="Rechercher"><button aria-label="Rechercher">⌕</button></form>
+    <div class="header-actions">
+      <button class="icon-btn" data-page="account" aria-label="Mon compte">👤</button>
+      <button class="icon-btn cart-link" data-page="cart" aria-label="Panier">🛍️<span id="cartCount" class="badge">0</span></button>
+      <button class="icon-btn" data-page="favorites" aria-label="Favoris">♡</button>
+    </div>
+  </header>
+  <nav class="nav wrap">
+    <button id="categoryToggle" class="nav-category">▦ Catégories ▾</button>
+    <a href="#accueil">Accueil</a><a href="#catalogue">Boutique</a><a href="#nouveautes">Nouveautés</a><a href="#contact">Contact</a>
+    <a class="nav-deal" href="#offres">Offres du jour <b>HOT</b></a>
+  </nav>
+  <main id="app" class="wrap" aria-live="polite">
+    <div class="loading">Chargement de ZAYNO…</div>
+  </main>
+  <footer class="footer">
+    <div class="wrap">
+      <img src="/assets/logo-light.svg" alt="ZAYNO" class="footer-logo">
+      <p>Le bon choix, au bon prix.</p>
+      <p>Livraison partout au Maroc · Paiement à la livraison · Retours selon conditions</p>
+      <div class="footer-links"><a href="#livraison">Livraison</a><a href="#retours">Retours</a><a href="#confidentialite">Confidentialité</a><a href="#contact">Contact</a></div>
+      <small>© <span id="year"></span> ZAYNO. Tous droits réservés.</small>
+    </div>
+  </footer>
+  <script src="/js/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+ZAYNO — DEMARRAGE SUR MAC
+
+1. Installe Node.js 20+ : https://nodejs.org/
+2. Ouvre le dossier ZAYNO dans VS Code.
+3. Dans Terminal > New Terminal, exécute :
+   npm install
+4. Crée la configuration :
+   cp .env.example .env
+5. Lance le serveur :
+   npm run dev
+6. Ouvre Chrome :
+   http://localhost:3000
+
+Arrêt : Control + C
+
+Le paiement à la livraison est fonctionnel dans le prototype.
+Le paiement par carte reste désactivé tant qu'un prestataire marchand
+et ses identifiants/API/webhook ne sont pas configurés.
+Consulte README.md avant tout déploiement public.

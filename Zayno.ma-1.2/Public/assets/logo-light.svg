@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 90">
+<g transform="translate(0 2) scale(.39)">
+<rect width="220" height="220" rx="38" fill="#FFE5B8"/>
+<g fill="none" stroke="#A00033" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+<path d="M110 24 177 91 110 72 43 91Z"/>
+<path d="M38 108h144l-14 78H52Z" fill="#A00033" stroke="none"/>
+<path d="M76 125v43m34-43v43m34-43v43M52 146h116" stroke="#FFE5B8" stroke-width="7"/>
+</g></g>
+<text x="100" y="61" font-family="Arial,sans-serif" font-size="43" font-weight="800" letter-spacing="8" fill="#FFE5B8">ZAYNO</text>
+</svg>
