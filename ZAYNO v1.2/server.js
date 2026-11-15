@@ -83,6 +83,12 @@ function uploadToCloudinary(buffer) {
   });
 }
 
+console.log("[DIAGNOSTIC CONFIG]", {
+  NODE_ENV: process.env.NODE_ENV,
+  SESSION_SECRET_PRESENT: Boolean(process.env.SESSION_SECRET),
+  SESSION_SECRET_LENGTH: process.env.SESSION_SECRET?.length ?? 0
+});
+
 if (process.env.NODE_ENV === "production" && (!process.env.SESSION_SECRET || process.env.SESSION_SECRET.length < 32)) {
   throw new Error("SESSION_SECRET doit contenir au moins 32 caractères en production.");
 }
