@@ -1,0 +1,36 @@
+[1mdiff --git a/ZAYNO v1.2/package.json b/ZAYNO v1.2/package.json[m
+[1mindex 70cfe15..e4a79e8 100644[m
+[1m--- a/ZAYNO v1.2/package.json[m	
+[1m+++ b/ZAYNO v1.2/package.json[m	
+[36m@@ -10,7 +10,9 @@[m
+     "admin:create": "node create-admin.js",[m
+     "test": "node --test"[m
+   },[m
+[31m-  "engines": { "node": ">=20" },[m
+[32m+[m[32m  "engines": {[m
+[32m+[m[32m    "node": ">=20"[m
+[32m+[m[32m  },[m
+   "dependencies": {[m
+     "bcryptjs": "^2.4.3",[m
+     "cloudinary": "^2.5.1",[m
+[36m@@ -21,9 +23,20 @@[m
+     "express-session": "^1.18.1",[m
+     "helmet": "^8.0.0",[m
+     "multer": "^2.0.2",[m
+[32m+[m[32m    "sqlite3": "6.0.1",[m
+     "stripe": "^17.7.0"[m
+   },[m
+   "devDependencies": {[m
+     "supertest": "^7.1.1"[m
+[32m+[m[32m  },[m
+[32m+[m[32m  "allowScripts": {[m
+[32m+[m[32m    "sqlite3@5.1.7": true,[m
+[32m+[m[32m    "sqlite3@6.0.1": true[m
+[32m+[m[32m  },[m
+[32m+[m[32m  "overrides": {[m
+[32m+[m[32m    "tar": "7.5.23",[m
+[32m+[m[32m    "connect-sqlite3": {[m
+[32m+[m[32m      "sqlite3": "5.1.7"[m
+[32m+[m[32m    }[m
+   }[m
+ }[m

@@ -1,0 +1,36 @@
+{
+  "name": "zayno-marketplace",
+  "version": "1.2.0",
+  "private": true,
+  "description": "ZAYNO Marketplace - version 1.2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "admin:create": "node create-admin.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.5.1",
+    "connect-sqlite3": "^0.9.15",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "express-session": "^1.18.1",
+    "helmet": "^8.0.0",
+    "multer": "^2.0.2",
+    "sqlite3": "6.0.1",
+    "stripe": "^17.7.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.1"
+  },
+  "allowScripts": {
+    "sqlite3@5.1.7": true,
+    "sqlite3@6.0.1": true
+  }
+}

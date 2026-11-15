@@ -1,0 +1,1749 @@
+add yallist 4.0.0
+add wrappy 1.0.2
+add wide-align 1.1.5
+add which 2.0.2
+add vary 1.1.2
+add utils-merge 1.0.1
+add util-deprecate 1.0.2
+add unpipe 1.0.0
+add unique-slug 2.0.2
+add unique-filename 1.1.1
+add undici-types 8.9.0
+add uid-safe 2.1.5
+add type-is 1.6.18
+add tunnel-agent 0.6.0
+add toidentifier 1.0.1
+add tar-stream 2.2.0
+add tar-fs 2.1.5
+add chownr 1.1.4
+add tar 6.2.1
+add minipass 5.0.0
+add supertest 7.3.2
+add cookie-signature 1.2.2
+add superagent 10.4.2
+add qs 6.17.1
+add ms 2.1.3
+add mime 2.6.0
+add debug 4.4.3
+add stripe 17.7.0
+add strip-json-comments 2.0.1
+add strip-ansi 6.0.1
+add string-width 4.2.3
+add string_decoder 1.3.0
+add streamsearch 1.1.0
+add statuses 2.0.2
+add ssri 8.0.1
+add sqlite3 5.1.7
+add socks-proxy-agent 6.2.1
+add ms 2.1.3
+add debug 4.4.3
+add socks 2.8.10
+add smart-buffer 4.2.0
+add simple-get 4.0.1
+add simple-concat 1.0.1
+add signal-exit 3.0.7
+add side-channel-weakmap 1.0.2
+add side-channel-map 1.0.1
+add side-channel-list 1.0.1
+add side-channel 1.1.1
+add setprototypeof 1.2.0
+add set-blocking 2.0.0
+add serve-static 1.16.3
+add send 0.19.2
+add ms 2.1.3
+add semver 7.8.6
+add safer-buffer 2.1.2
+add safe-buffer 5.2.1
+add rimraf 3.0.2
+add retry 0.12.0
+add readable-stream 3.6.2
+add rc 1.2.8
+add raw-body 2.5.3
+add range-parser 1.2.1
+add random-bytes 1.0.0
+add qs 6.16.2
+add pump 3.0.4
+add proxy-addr 2.0.8
+add promise-retry 2.0.1
+add promise-inflight 1.0.1
+add prebuild-install 7.1.3
+add path-to-regexp 0.1.13
+add path-is-absolute 1.0.1
+add parseurl 1.3.3
+add p-map 4.0.0
+add once 1.4.0
+add on-headers 1.1.0
+add on-finished 2.4.2
+add object-inspect 1.13.4
+add npmlog 6.0.2
+add nopt 5.0.0
+add node-gyp 8.4.1
+add node-addon-api 7.1.1
+add node-abi 3.101.0
+add negotiator 0.6.3
+add napi-build-utils 2.0.0
+add multer 2.5.0
+add ms 2.0.0
+add mkdirp-classic 0.5.3
+add mkdirp 1.0.4
+add minizlib 2.1.2
+add minipass-sized 1.0.3
+add minipass-pipeline 1.2.4
+add minipass-flush 1.0.7
+add minipass-fetch 1.4.1
+add minipass-collect 1.0.2
+add minipass 3.3.6
+add minimist 1.2.8
+add minimatch 3.1.5
+add mimic-response 3.1.0
+add mime-types 2.1.35
+add mime-db 1.52.0
+add mime 1.6.0
+add methods 1.1.2
+add merge-descriptors 1.0.3
+add media-typer 0.3.0
+add math-intrinsics 1.1.0
+add make-fetch-happen 9.1.0
+add lru-cache 6.0.0
+add lodash 4.18.1
+add isexe 2.0.0
+add is-lambda 1.0.1
+add is-fullwidth-code-point 3.0.0
+add ipaddr.js 1.9.1
+add ip-address 10.7.6
+add ini 1.3.8
+add inherits 2.0.4
+add inflight 1.0.6
+add infer-owner 1.0.4
+add indent-string 4.0.0
+add imurmurhash 0.1.4
+add ieee754 1.2.1
+add iconv-lite 0.4.24
+add humanize-ms 1.2.1
+add https-proxy-agent 5.0.1
+add ms 2.1.3
+add debug 4.4.3
+add http-proxy-agent 4.0.1
+add ms 2.1.3
+add debug 4.4.3
+add http-errors 2.0.1
+add http-cache-semantics 4.3.0
+add helmet 8.3.0
+add hasown 2.0.4
+add has-unicode 2.0.1
+add has-tostringtag 1.0.2
+add has-symbols 1.1.0
+add graceful-fs 4.2.12
+add gopd 1.2.0
+add glob 7.2.3
+add github-from-package 0.0.0
+add get-proto 1.0.1
+add get-intrinsic 1.3.0
+add gauge 4.0.4
+add function-bind 1.1.2
+add fs.realpath 1.0.0
+add fs-minipass 2.1.0
+add fs-constants 1.0.0
+add fresh 0.5.2
+add forwarded 0.2.0
+add formidable 3.5.4
+add form-data 4.0.6
+add finalhandler 1.3.2
+add file-uri-to-path 1.0.0
+add fast-safe-stringify 2.1.1
+add express-session 1.19.0
+add express-rate-limit 7.5.1
+add express 4.22.3
+add expand-template 2.0.3
+add etag 1.8.1
+add escape-html 1.0.3
+add es-set-tostringtag 2.1.0
+add es-object-atoms 1.1.2
+add es-errors 1.3.0
+add es-define-property 1.0.1
+add err-code 2.0.3
+add env-paths 2.2.1
+add end-of-stream 1.4.5
+add encoding 0.1.14
+add iconv-lite 0.7.3
+add encodeurl 2.0.3
+add emoji-regex 8.0.0
+add ee-first 1.1.1
+add dunder-proto 1.0.1
+add dotenv 16.6.1
+add dezalgo 1.0.4
+add detect-libc 2.1.2
+add destroy 1.2.0
+add depd 2.0.0
+add delegates 1.0.0
+add delayed-stream 1.0.0
+add deep-extend 0.6.0
+add decompress-response 6.0.0
+add debug 2.6.9
+add cookiejar 2.1.4
+add cookie-signature 1.0.7
+add cookie 0.7.2
+add content-type 1.0.5
+add content-disposition 0.5.4
+add console-control-strings 1.1.0
+add connect-sqlite3 0.9.18
+add concat-map 0.0.1
+add component-emitter 1.3.1
+add combined-stream 1.0.8
+add color-support 1.1.3
+add cloudinary 2.11.0
+add clean-stack 2.2.0
+add chownr 2.0.0
+add call-bound 1.0.4
+add call-bind-apply-helpers 1.0.2
+add cacache 15.3.0
+add bytes 3.1.2
+add busboy 1.6.0
+add buffer 5.7.1
+add brace-expansion 1.1.22
+add body-parser 1.20.9
+add bl 4.1.0
+add bindings 1.5.0
+add bcryptjs 2.4.3
+add base64-js 1.5.1
+add balanced-match 1.0.2
+add asynckit 0.4.0
+add asap 2.0.6
+add array-flatten 1.1.1
+add are-we-there-yet 3.0.1
+add aproba 2.1.0
+add append-field 1.0.0
+add ansi-regex 5.0.1
+add aggregate-error 3.1.0
+add agentkeepalive 4.6.0
+add agent-base 6.0.2
+add ms 2.1.3
+add debug 4.4.3
+add accepts 1.3.8
+add abbrev 1.1.1
+add @types/node 26.6.6
+add @tootallnate/once 1.1.2
+add @paralleldrive/cuid2 2.3.1
+add @npmcli/move-file 1.1.2
+add @npmcli/fs 1.1.1
+add @noble/hashes 1.8.0
+add @gar/promisify 1.1.3
+{
+  "add": [
+    {
+      "name": "yallist",
+      "version": "4.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/yallist"
+    },
+    {
+      "name": "wrappy",
+      "version": "1.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/wrappy"
+    },
+    {
+      "name": "wide-align",
+      "version": "1.1.5",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/wide-align"
+    },
+    {
+      "name": "which",
+      "version": "2.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/which"
+    },
+    {
+      "name": "vary",
+      "version": "1.1.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/vary"
+    },
+    {
+      "name": "utils-merge",
+      "version": "1.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/utils-merge"
+    },
+    {
+      "name": "util-deprecate",
+      "version": "1.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/util-deprecate"
+    },
+    {
+      "name": "unpipe",
+      "version": "1.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/unpipe"
+    },
+    {
+      "name": "unique-slug",
+      "version": "2.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/unique-slug"
+    },
+    {
+      "name": "unique-filename",
+      "version": "1.1.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/unique-filename"
+    },
+    {
+      "name": "undici-types",
+      "version": "8.9.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/undici-types"
+    },
+    {
+      "name": "uid-safe",
+      "version": "2.1.5",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/uid-safe"
+    },
+    {
+      "name": "type-is",
+      "version": "1.6.18",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/type-is"
+    },
+    {
+      "name": "tunnel-agent",
+      "version": "0.6.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/tunnel-agent"
+    },
+    {
+      "name": "toidentifier",
+      "version": "1.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/toidentifier"
+    },
+    {
+      "name": "tar-stream",
+      "version": "2.2.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/tar-stream"
+    },
+    {
+      "name": "tar-fs",
+      "version": "2.1.5",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/tar-fs"
+    },
+    {
+      "name": "chownr",
+      "version": "1.1.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/tar-fs/node_modules/chownr"
+    },
+    {
+      "name": "tar",
+      "version": "6.2.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/tar"
+    },
+    {
+      "name": "minipass",
+      "version": "5.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/tar/node_modules/minipass"
+    },
+    {
+      "name": "supertest",
+      "version": "7.3.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/supertest"
+    },
+    {
+      "name": "cookie-signature",
+      "version": "1.2.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/supertest/node_modules/cookie-signature"
+    },
+    {
+      "name": "superagent",
+      "version": "10.4.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/superagent"
+    },
+    {
+      "name": "qs",
+      "version": "6.17.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/superagent/node_modules/qs"
+    },
+    {
+      "name": "ms",
+      "version": "2.1.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/superagent/node_modules/ms"
+    },
+    {
+      "name": "mime",
+      "version": "2.6.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/superagent/node_modules/mime"
+    },
+    {
+      "name": "debug",
+      "version": "4.4.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/superagent/node_modules/debug"
+    },
+    {
+      "name": "stripe",
+      "version": "17.7.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/stripe"
+    },
+    {
+      "name": "strip-json-comments",
+      "version": "2.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/strip-json-comments"
+    },
+    {
+      "name": "strip-ansi",
+      "version": "6.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/strip-ansi"
+    },
+    {
+      "name": "string-width",
+      "version": "4.2.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/string-width"
+    },
+    {
+      "name": "string_decoder",
+      "version": "1.3.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/string_decoder"
+    },
+    {
+      "name": "streamsearch",
+      "version": "1.1.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/streamsearch"
+    },
+    {
+      "name": "statuses",
+      "version": "2.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/statuses"
+    },
+    {
+      "name": "ssri",
+      "version": "8.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/ssri"
+    },
+    {
+      "name": "sqlite3",
+      "version": "5.1.7",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/sqlite3"
+    },
+    {
+      "name": "socks-proxy-agent",
+      "version": "6.2.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/socks-proxy-agent"
+    },
+    {
+      "name": "ms",
+      "version": "2.1.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/socks-proxy-agent/node_modules/ms"
+    },
+    {
+      "name": "debug",
+      "version": "4.4.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/socks-proxy-agent/node_modules/debug"
+    },
+    {
+      "name": "socks",
+      "version": "2.8.10",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/socks"
+    },
+    {
+      "name": "smart-buffer",
+      "version": "4.2.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/smart-buffer"
+    },
+    {
+      "name": "simple-get",
+      "version": "4.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/simple-get"
+    },
+    {
+      "name": "simple-concat",
+      "version": "1.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/simple-concat"
+    },
+    {
+      "name": "signal-exit",
+      "version": "3.0.7",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/signal-exit"
+    },
+    {
+      "name": "side-channel-weakmap",
+      "version": "1.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/side-channel-weakmap"
+    },
+    {
+      "name": "side-channel-map",
+      "version": "1.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/side-channel-map"
+    },
+    {
+      "name": "side-channel-list",
+      "version": "1.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/side-channel-list"
+    },
+    {
+      "name": "side-channel",
+      "version": "1.1.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/side-channel"
+    },
+    {
+      "name": "setprototypeof",
+      "version": "1.2.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/setprototypeof"
+    },
+    {
+      "name": "set-blocking",
+      "version": "2.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/set-blocking"
+    },
+    {
+      "name": "serve-static",
+      "version": "1.16.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/serve-static"
+    },
+    {
+      "name": "send",
+      "version": "0.19.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/send"
+    },
+    {
+      "name": "ms",
+      "version": "2.1.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/send/node_modules/ms"
+    },
+    {
+      "name": "semver",
+      "version": "7.8.6",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/semver"
+    },
+    {
+      "name": "safer-buffer",
+      "version": "2.1.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/safer-buffer"
+    },
+    {
+      "name": "safe-buffer",
+      "version": "5.2.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/safe-buffer"
+    },
+    {
+      "name": "rimraf",
+      "version": "3.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/rimraf"
+    },
+    {
+      "name": "retry",
+      "version": "0.12.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/retry"
+    },
+    {
+      "name": "readable-stream",
+      "version": "3.6.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/readable-stream"
+    },
+    {
+      "name": "rc",
+      "version": "1.2.8",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/rc"
+    },
+    {
+      "name": "raw-body",
+      "version": "2.5.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/raw-body"
+    },
+    {
+      "name": "range-parser",
+      "version": "1.2.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/range-parser"
+    },
+    {
+      "name": "random-bytes",
+      "version": "1.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/random-bytes"
+    },
+    {
+      "name": "qs",
+      "version": "6.16.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/qs"
+    },
+    {
+      "name": "pump",
+      "version": "3.0.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/pump"
+    },
+    {
+      "name": "proxy-addr",
+      "version": "2.0.8",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/proxy-addr"
+    },
+    {
+      "name": "promise-retry",
+      "version": "2.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/promise-retry"
+    },
+    {
+      "name": "promise-inflight",
+      "version": "1.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/promise-inflight"
+    },
+    {
+      "name": "prebuild-install",
+      "version": "7.1.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/prebuild-install"
+    },
+    {
+      "name": "path-to-regexp",
+      "version": "0.1.13",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/path-to-regexp"
+    },
+    {
+      "name": "path-is-absolute",
+      "version": "1.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/path-is-absolute"
+    },
+    {
+      "name": "parseurl",
+      "version": "1.3.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/parseurl"
+    },
+    {
+      "name": "p-map",
+      "version": "4.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/p-map"
+    },
+    {
+      "name": "once",
+      "version": "1.4.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/once"
+    },
+    {
+      "name": "on-headers",
+      "version": "1.1.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/on-headers"
+    },
+    {
+      "name": "on-finished",
+      "version": "2.4.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/on-finished"
+    },
+    {
+      "name": "object-inspect",
+      "version": "1.13.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/object-inspect"
+    },
+    {
+      "name": "npmlog",
+      "version": "6.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/npmlog"
+    },
+    {
+      "name": "nopt",
+      "version": "5.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/nopt"
+    },
+    {
+      "name": "node-gyp",
+      "version": "8.4.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/node-gyp"
+    },
+    {
+      "name": "node-addon-api",
+      "version": "7.1.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/node-addon-api"
+    },
+    {
+      "name": "node-abi",
+      "version": "3.101.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/node-abi"
+    },
+    {
+      "name": "negotiator",
+      "version": "0.6.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/negotiator"
+    },
+    {
+      "name": "napi-build-utils",
+      "version": "2.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/napi-build-utils"
+    },
+    {
+      "name": "multer",
+      "version": "2.5.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/multer"
+    },
+    {
+      "name": "ms",
+      "version": "2.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/ms"
+    },
+    {
+      "name": "mkdirp-classic",
+      "version": "0.5.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/mkdirp-classic"
+    },
+    {
+      "name": "mkdirp",
+      "version": "1.0.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/mkdirp"
+    },
+    {
+      "name": "minizlib",
+      "version": "2.1.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/minizlib"
+    },
+    {
+      "name": "minipass-sized",
+      "version": "1.0.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/minipass-sized"
+    },
+    {
+      "name": "minipass-pipeline",
+      "version": "1.2.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/minipass-pipeline"
+    },
+    {
+      "name": "minipass-flush",
+      "version": "1.0.7",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/minipass-flush"
+    },
+    {
+      "name": "minipass-fetch",
+      "version": "1.4.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/minipass-fetch"
+    },
+    {
+      "name": "minipass-collect",
+      "version": "1.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/minipass-collect"
+    },
+    {
+      "name": "minipass",
+      "version": "3.3.6",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/minipass"
+    },
+    {
+      "name": "minimist",
+      "version": "1.2.8",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/minimist"
+    },
+    {
+      "name": "minimatch",
+      "version": "3.1.5",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/minimatch"
+    },
+    {
+      "name": "mimic-response",
+      "version": "3.1.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/mimic-response"
+    },
+    {
+      "name": "mime-types",
+      "version": "2.1.35",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/mime-types"
+    },
+    {
+      "name": "mime-db",
+      "version": "1.52.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/mime-db"
+    },
+    {
+      "name": "mime",
+      "version": "1.6.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/mime"
+    },
+    {
+      "name": "methods",
+      "version": "1.1.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/methods"
+    },
+    {
+      "name": "merge-descriptors",
+      "version": "1.0.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/merge-descriptors"
+    },
+    {
+      "name": "media-typer",
+      "version": "0.3.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/media-typer"
+    },
+    {
+      "name": "math-intrinsics",
+      "version": "1.1.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/math-intrinsics"
+    },
+    {
+      "name": "make-fetch-happen",
+      "version": "9.1.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/make-fetch-happen"
+    },
+    {
+      "name": "lru-cache",
+      "version": "6.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/lru-cache"
+    },
+    {
+      "name": "lodash",
+      "version": "4.18.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/lodash"
+    },
+    {
+      "name": "isexe",
+      "version": "2.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/isexe"
+    },
+    {
+      "name": "is-lambda",
+      "version": "1.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/is-lambda"
+    },
+    {
+      "name": "is-fullwidth-code-point",
+      "version": "3.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/is-fullwidth-code-point"
+    },
+    {
+      "name": "ipaddr.js",
+      "version": "1.9.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/ipaddr.js"
+    },
+    {
+      "name": "ip-address",
+      "version": "10.7.6",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/ip-address"
+    },
+    {
+      "name": "ini",
+      "version": "1.3.8",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/ini"
+    },
+    {
+      "name": "inherits",
+      "version": "2.0.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/inherits"
+    },
+    {
+      "name": "inflight",
+      "version": "1.0.6",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/inflight"
+    },
+    {
+      "name": "infer-owner",
+      "version": "1.0.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/infer-owner"
+    },
+    {
+      "name": "indent-string",
+      "version": "4.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/indent-string"
+    },
+    {
+      "name": "imurmurhash",
+      "version": "0.1.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/imurmurhash"
+    },
+    {
+      "name": "ieee754",
+      "version": "1.2.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/ieee754"
+    },
+    {
+      "name": "iconv-lite",
+      "version": "0.4.24",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/iconv-lite"
+    },
+    {
+      "name": "humanize-ms",
+      "version": "1.2.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/humanize-ms"
+    },
+    {
+      "name": "https-proxy-agent",
+      "version": "5.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/https-proxy-agent"
+    },
+    {
+      "name": "ms",
+      "version": "2.1.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/https-proxy-agent/node_modules/ms"
+    },
+    {
+      "name": "debug",
+      "version": "4.4.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/https-proxy-agent/node_modules/debug"
+    },
+    {
+      "name": "http-proxy-agent",
+      "version": "4.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/http-proxy-agent"
+    },
+    {
+      "name": "ms",
+      "version": "2.1.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/http-proxy-agent/node_modules/ms"
+    },
+    {
+      "name": "debug",
+      "version": "4.4.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/http-proxy-agent/node_modules/debug"
+    },
+    {
+      "name": "http-errors",
+      "version": "2.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/http-errors"
+    },
+    {
+      "name": "http-cache-semantics",
+      "version": "4.3.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/http-cache-semantics"
+    },
+    {
+      "name": "helmet",
+      "version": "8.3.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/helmet"
+    },
+    {
+      "name": "hasown",
+      "version": "2.0.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/hasown"
+    },
+    {
+      "name": "has-unicode",
+      "version": "2.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/has-unicode"
+    },
+    {
+      "name": "has-tostringtag",
+      "version": "1.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/has-tostringtag"
+    },
+    {
+      "name": "has-symbols",
+      "version": "1.1.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/has-symbols"
+    },
+    {
+      "name": "graceful-fs",
+      "version": "4.2.12",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/graceful-fs"
+    },
+    {
+      "name": "gopd",
+      "version": "1.2.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/gopd"
+    },
+    {
+      "name": "glob",
+      "version": "7.2.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/glob"
+    },
+    {
+      "name": "github-from-package",
+      "version": "0.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/github-from-package"
+    },
+    {
+      "name": "get-proto",
+      "version": "1.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/get-proto"
+    },
+    {
+      "name": "get-intrinsic",
+      "version": "1.3.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/get-intrinsic"
+    },
+    {
+      "name": "gauge",
+      "version": "4.0.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/gauge"
+    },
+    {
+      "name": "function-bind",
+      "version": "1.1.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/function-bind"
+    },
+    {
+      "name": "fs.realpath",
+      "version": "1.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/fs.realpath"
+    },
+    {
+      "name": "fs-minipass",
+      "version": "2.1.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/fs-minipass"
+    },
+    {
+      "name": "fs-constants",
+      "version": "1.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/fs-constants"
+    },
+    {
+      "name": "fresh",
+      "version": "0.5.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/fresh"
+    },
+    {
+      "name": "forwarded",
+      "version": "0.2.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/forwarded"
+    },
+    {
+      "name": "formidable",
+      "version": "3.5.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/formidable"
+    },
+    {
+      "name": "form-data",
+      "version": "4.0.6",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/form-data"
+    },
+    {
+      "name": "finalhandler",
+      "version": "1.3.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/finalhandler"
+    },
+    {
+      "name": "file-uri-to-path",
+      "version": "1.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/file-uri-to-path"
+    },
+    {
+      "name": "fast-safe-stringify",
+      "version": "2.1.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/fast-safe-stringify"
+    },
+    {
+      "name": "express-session",
+      "version": "1.19.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/express-session"
+    },
+    {
+      "name": "express-rate-limit",
+      "version": "7.5.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/express-rate-limit"
+    },
+    {
+      "name": "express",
+      "version": "4.22.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/express"
+    },
+    {
+      "name": "expand-template",
+      "version": "2.0.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/expand-template"
+    },
+    {
+      "name": "etag",
+      "version": "1.8.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/etag"
+    },
+    {
+      "name": "escape-html",
+      "version": "1.0.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/escape-html"
+    },
+    {
+      "name": "es-set-tostringtag",
+      "version": "2.1.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/es-set-tostringtag"
+    },
+    {
+      "name": "es-object-atoms",
+      "version": "1.1.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/es-object-atoms"
+    },
+    {
+      "name": "es-errors",
+      "version": "1.3.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/es-errors"
+    },
+    {
+      "name": "es-define-property",
+      "version": "1.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/es-define-property"
+    },
+    {
+      "name": "err-code",
+      "version": "2.0.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/err-code"
+    },
+    {
+      "name": "env-paths",
+      "version": "2.2.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/env-paths"
+    },
+    {
+      "name": "end-of-stream",
+      "version": "1.4.5",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/end-of-stream"
+    },
+    {
+      "name": "encoding",
+      "version": "0.1.14",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/encoding"
+    },
+    {
+      "name": "iconv-lite",
+      "version": "0.7.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/encoding/node_modules/iconv-lite"
+    },
+    {
+      "name": "encodeurl",
+      "version": "2.0.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/encodeurl"
+    },
+    {
+      "name": "emoji-regex",
+      "version": "8.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/emoji-regex"
+    },
+    {
+      "name": "ee-first",
+      "version": "1.1.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/ee-first"
+    },
+    {
+      "name": "dunder-proto",
+      "version": "1.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/dunder-proto"
+    },
+    {
+      "name": "dotenv",
+      "version": "16.6.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/dotenv"
+    },
+    {
+      "name": "dezalgo",
+      "version": "1.0.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/dezalgo"
+    },
+    {
+      "name": "detect-libc",
+      "version": "2.1.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/detect-libc"
+    },
+    {
+      "name": "destroy",
+      "version": "1.2.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/destroy"
+    },
+    {
+      "name": "depd",
+      "version": "2.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/depd"
+    },
+    {
+      "name": "delegates",
+      "version": "1.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/delegates"
+    },
+    {
+      "name": "delayed-stream",
+      "version": "1.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/delayed-stream"
+    },
+    {
+      "name": "deep-extend",
+      "version": "0.6.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/deep-extend"
+    },
+    {
+      "name": "decompress-response",
+      "version": "6.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/decompress-response"
+    },
+    {
+      "name": "debug",
+      "version": "2.6.9",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/debug"
+    },
+    {
+      "name": "cookiejar",
+      "version": "2.1.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/cookiejar"
+    },
+    {
+      "name": "cookie-signature",
+      "version": "1.0.7",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/cookie-signature"
+    },
+    {
+      "name": "cookie",
+      "version": "0.7.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/cookie"
+    },
+    {
+      "name": "content-type",
+      "version": "1.0.5",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/content-type"
+    },
+    {
+      "name": "content-disposition",
+      "version": "0.5.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/content-disposition"
+    },
+    {
+      "name": "console-control-strings",
+      "version": "1.1.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/console-control-strings"
+    },
+    {
+      "name": "connect-sqlite3",
+      "version": "0.9.18",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/connect-sqlite3"
+    },
+    {
+      "name": "concat-map",
+      "version": "0.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/concat-map"
+    },
+    {
+      "name": "component-emitter",
+      "version": "1.3.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/component-emitter"
+    },
+    {
+      "name": "combined-stream",
+      "version": "1.0.8",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/combined-stream"
+    },
+    {
+      "name": "color-support",
+      "version": "1.1.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/color-support"
+    },
+    {
+      "name": "cloudinary",
+      "version": "2.11.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/cloudinary"
+    },
+    {
+      "name": "clean-stack",
+      "version": "2.2.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/clean-stack"
+    },
+    {
+      "name": "chownr",
+      "version": "2.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/chownr"
+    },
+    {
+      "name": "call-bound",
+      "version": "1.0.4",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/call-bound"
+    },
+    {
+      "name": "call-bind-apply-helpers",
+      "version": "1.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/call-bind-apply-helpers"
+    },
+    {
+      "name": "cacache",
+      "version": "15.3.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/cacache"
+    },
+    {
+      "name": "bytes",
+      "version": "3.1.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/bytes"
+    },
+    {
+      "name": "busboy",
+      "version": "1.6.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/busboy"
+    },
+    {
+      "name": "buffer",
+      "version": "5.7.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/buffer"
+    },
+    {
+      "name": "brace-expansion",
+      "version": "1.1.22",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/brace-expansion"
+    },
+    {
+      "name": "body-parser",
+      "version": "1.20.9",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/body-parser"
+    },
+    {
+      "name": "bl",
+      "version": "4.1.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/bl"
+    },
+    {
+      "name": "bindings",
+      "version": "1.5.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/bindings"
+    },
+    {
+      "name": "bcryptjs",
+      "version": "2.4.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/bcryptjs"
+    },
+    {
+      "name": "base64-js",
+      "version": "1.5.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/base64-js"
+    },
+    {
+      "name": "balanced-match",
+      "version": "1.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/balanced-match"
+    },
+    {
+      "name": "asynckit",
+      "version": "0.4.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/asynckit"
+    },
+    {
+      "name": "asap",
+      "version": "2.0.6",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/asap"
+    },
+    {
+      "name": "array-flatten",
+      "version": "1.1.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/array-flatten"
+    },
+    {
+      "name": "are-we-there-yet",
+      "version": "3.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/are-we-there-yet"
+    },
+    {
+      "name": "aproba",
+      "version": "2.1.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/aproba"
+    },
+    {
+      "name": "append-field",
+      "version": "1.0.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/append-field"
+    },
+    {
+      "name": "ansi-regex",
+      "version": "5.0.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/ansi-regex"
+    },
+    {
+      "name": "aggregate-error",
+      "version": "3.1.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/aggregate-error"
+    },
+    {
+      "name": "agentkeepalive",
+      "version": "4.6.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/agentkeepalive"
+    },
+    {
+      "name": "agent-base",
+      "version": "6.0.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/agent-base"
+    },
+    {
+      "name": "ms",
+      "version": "2.1.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/agent-base/node_modules/ms"
+    },
+    {
+      "name": "debug",
+      "version": "4.4.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/agent-base/node_modules/debug"
+    },
+    {
+      "name": "accepts",
+      "version": "1.3.8",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/accepts"
+    },
+    {
+      "name": "abbrev",
+      "version": "1.1.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/abbrev"
+    },
+    {
+      "name": "@types/node",
+      "version": "26.6.6",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/@types/node"
+    },
+    {
+      "name": "@tootallnate/once",
+      "version": "1.1.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/@tootallnate/once"
+    },
+    {
+      "name": "@paralleldrive/cuid2",
+      "version": "2.3.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/@paralleldrive/cuid2"
+    },
+    {
+      "name": "@npmcli/move-file",
+      "version": "1.1.2",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/@npmcli/move-file"
+    },
+    {
+      "name": "@npmcli/fs",
+      "version": "1.1.1",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/@npmcli/fs"
+    },
+    {
+      "name": "@noble/hashes",
+      "version": "1.8.0",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/@noble/hashes"
+    },
+    {
+      "name": "@gar/promisify",
+      "version": "1.1.3",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/@gar/promisify"
+    }
+  ],
+  "added": 230,
+  "audited": 231,
+  "change": [],
+  "changed": 0,
+  "funding": 40,
+  "remove": [],
+  "removed": 0,
+  "audit": {
+    "auditReportVersion": 2,
+    "vulnerabilities": {
+      "@tootallnate/once": {
+        "name": "@tootallnate/once",
+        "severity": "low",
+        "isDirect": false,
+        "via": [
+          {
+            "source": 1119438,
+            "name": "@tootallnate/once",
+            "dependency": "@tootallnate/once",
+            "title": "@tootallnate/once vulnerable to Incorrect Control Flow Scoping",
+            "url": "https://github.com/advisories/GHSA-vpq2-c234-7xj6",
+            "severity": "low",
+            "cwe": [
+              "CWE-705"
+            ],
+            "cvss": {
+              "score": 3.3,
+              "vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L"
+            },
+            "range": "<2.0.1"
+          }
+        ],
+        "effects": [
+          "http-proxy-agent"
+        ],
+        "range": "<2.0.1",
+        "nodes": [
+          "node_modules/@tootallnate/once"
+        ],
+        "fixAvailable": true
+      },
+      "cacache": {
+        "name": "cacache",
+        "severity": "high",
+        "isDirect": false,
+        "via": [
+          "tar"
+        ],
+        "effects": [
+          "make-fetch-happen"
+        ],
+        "range": "14.0.0 - 18.0.4",
+        "nodes": [
+          "node_modules/cacache"
+        ],
+        "fixAvailable": true
+      },
+      "http-proxy-agent": {
+        "name": "http-proxy-agent",
+        "severity": "low",
+        "isDirect": false,
+        "via": [
+          "@tootallnate/once"
+        ],
+        "effects": [
+          "make-fetch-happen"
+        ],
+        "range": "4.0.1",
+        "nodes": [
+          "node_modules/http-proxy-agent"
+        ],
+        "fixAvailable": true
+      },
+      "make-fetch-happen": {
+        "name": "make-fetch-happen",
+        "severity": "high",
+        "isDirect": false,
+        "via": [
+          "cacache",
+          "http-proxy-agent"
+        ],
+        "effects": [
+          "node-gyp"
+        ],
+        "range": "7.1.1 - 14.0.0",
+        "nodes": [
+          "node_modules/make-fetch-happen"
+        ],
+        "fixAvailable": true
+      },
+      "node-gyp": {
+        "name": "node-gyp",
+        "severity": "high",
+        "isDirect": false,
+        "via": [
+          "make-fetch-happen",
+          "tar"
+        ],
+        "effects": [
+          "sqlite3"
+        ],
+        "range": "<=10.3.1",
+        "nodes": [
+          "node_modules/node-gyp"
+        ],
+        "fixAvailable": true
+      },
+      "sqlite3": {
+        "name": "sqlite3",
+        "severity": "high",
+        "isDirect": false,
+        "via": [
+          "node-gyp",
+          "tar"
+        ],
+        "effects": [],
+        "range": "5.0.0 - 5.1.7",
+        "nodes": [
+          "node_modules/sqlite3"
+        ],
+        "fixAvailable": true
+      },
+      "tar": {
+        "name": "tar",
+        "severity": "critical",
+        "isDirect": false,
+        "via": [
+          {
+            "source": 1112659,
+            "name": "tar",
+            "dependency": "tar",
+            "title": "node-tar Vulnerable to Arbitrary File Creation/Overwrite via Hardlink Path Traversal",
+            "url": "https://github.com/advisories/GHSA-34x7-hfp2-rc4v",
+            "severity": "high",
+            "cwe": [
+              "CWE-22",
+              "CWE-59"
+            ],
+            "cvss": {
+              "score": 8.2,
+              "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:L/A:N"
+            },
+            "range": "<7.5.7"
+          },
+          {
+            "source": 1113300,
+            "name": "tar",
+            "dependency": "tar",
+            "title": "node-tar is Vulnerable to Arbitrary File Overwrite and Symlink Poisoning via Insufficient Path Sanitization",
+            "url": "https://github.com/advisories/GHSA-8qq5-rm4j-mr97",
+            "severity": "high",
+            "cwe": [
+              "CWE-22"
+            ],
+            "cvss": {
+              "score": 0,
+              "vectorString": null
+            },
+            "range": "<=7.5.2"
+          },
+          {
+            "source": 1113375,
+            "name": "tar",
+            "dependency": "tar",
+            "title": "Arbitrary File Read/Write via Hardlink Target Escape Through Symlink Chain in node-tar Extraction",
+            "url": "https://github.com/advisories/GHSA-83g3-92jg-28cx",
+            "severity": "high",
+            "cwe": [
+              "CWE-22"
+            ],
+            "cvss": {
+              "score": 7.1,
+              "vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N"
+            },
+            "range": "<7.5.8"
+          },
+          {
+            "source": 1114200,
+            "name": "tar",
+            "dependency": "tar",
+            "title": "tar has Hardlink Path Traversal via Drive-Relative Linkpath",
+            "url": "https://github.com/advisories/GHSA-qffp-2rhf-9h96",
+            "severity": "high",
+            "cwe": [
+              "CWE-22",
+              "CWE-59"
+            ],
+            "cvss": {
+              "score": 0,
+              "vectorString": null
+            },
+            "range": "<=7.5.9"
+          },
+          {
+            "source": 1114302,
+            "name": "tar",
+            "dependency": "tar",
+            "title": "node-tar Symlink Path Traversal via Drive-Relative Linkpath",
+            "url": "https://github.com/advisories/GHSA-9ppj-qmqm-q256",
+            "severity": "high",
+            "cwe": [
+              "CWE-22"
+            ],
+            "cvss": {
+              "score": 0,
+              "vectorString": null
+            },
+            "range": "<=7.5.10"
+          },
+          {
+            "source": 1114680,
+            "name": "tar",
+            "dependency": "tar",
+            "title": "Race Condition in node-tar Path Reservations via Unicode Ligature Collisions on macOS APFS",
+            "url": "https://github.com/advisories/GHSA-r6q2-hw4h-h46w",
+            "severity": "high",
+            "cwe": [
+              "CWE-176",
+              "CWE-367"
+            ],
+            "cvss": {
+              "score": 8.8,
+              "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:H/A:L"
+            },
+            "range": "<=7.5.3"
+          },
+          {
+            "source": 1120782,
+            "name": "tar",
+            "dependency": "tar",
+            "title": "node-tar applies PAX size override to intermediary GNU long-name/long-link headers, causing tar parser interpretation differential (file smuggling)",
+            "url": "https://github.com/advisories/GHSA-vmf3-w455-68vh",
+            "severity": "moderate",
+            "cwe": [
+              "CWE-436"
+            ],
+            "cvss": {
+              "score": 0,
+              "vectorString": null
+            },
+            "range": "<=7.5.15"
+          },
+          {
+            "source": 1123939,
+            "name": "tar",
+            "dependency": "tar",
+            "title": "node-tar: Process crash via PAX numeric path type confusion",
+            "url": "https://github.com/advisories/GHSA-w8wr-v893-vjvp",
+            "severity": "moderate",
+            "cwe": [
+              "CWE-704"
+            ],
+            "cvss": {
+              "score": 5.3,
+              "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L"
+            },
+            "range": "<=7.5.17"
+          },
+          {
+            "source": 1123940,
+            "name": "tar",
+            "dependency": "tar",
+            "title": "node-tar: Decompression/parse DoS via unlimited input",
+            "url": "https://github.com/advisories/GHSA-23hp-3jrh-7fpw",
+            "severity": "critical",
+            "cwe": [
+              "CWE-770"
+            ],
+            "cvss": {
+              "score": 7.5,
+              "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+            },
+            "range": "<=7.5.18"
+          },
+          {
+            "source": 1123941,
+            "name": "tar",
+            "dependency": "tar",
+            "title": "node-tar: Negative tar entry size causes infinite loop in archive replace",
+            "url": "https://github.com/advisories/GHSA-8x88-c5mf-7j5w",
+            "severity": "high",
+            "cwe": [
+              "CWE-835"
+            ],
+            "cvss": {
+              "score": 7.5,
+              "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+            },
+            "range": "<=7.5.17"
+          },
+          {
+            "source": 1123942,
+            "name": "tar",
+            "dependency": "tar",
+            "title": "node-tar: Uncaught Exception DoS via NUL byte in PAX path/linkpath records",
+            "url": "https://github.com/advisories/GHSA-gvwx-54wh-qm9j",
+            "severity": "moderate",
+            "cwe": [
+              "CWE-248"
+            ],
+            "cvss": {
+              "score": 5.3,
+              "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L"
+            },
+            "range": "<=7.5.16"
+          },
+          {
+            "source": 1145647,
+            "name": "tar",
+            "dependency": "tar",
+            "title": "node-tar: Uncontrolled recursion in mapHas/filesFilter allows uncatchable stack-overflow DoS via crafted long-path tar with member selection",
+            "url": "https://github.com/advisories/GHSA-r292-9mhp-454m",
+            "severity": "high",
+            "cwe": [
+              "CWE-400",
+              "CWE-674"
+            ],
+            "cvss": {
+              "score": 7.5,
+              "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+            },
+            "range": "<=7.5.20"
+          }
+        ],
+        "effects": [
+          "cacache",
+          "node-gyp",
+          "sqlite3"
+        ],
+        "range": "<=7.5.20",
+        "nodes": [
+          "node_modules/tar"
+        ],
+        "fixAvailable": true
+      }
+    },
+    "metadata": {
+      "vulnerabilities": {
+        "info": 0,
+        "low": 2,
+        "moderate": 0,
+        "high": 4,
+        "critical": 1,
+        "total": 7
+      },
+      "dependencies": {
+        "prod": 89,
+        "dev": 21,
+        "optional": 121,
+        "peer": 0,
+        "peerOptional": 0,
+        "total": 230
+      }
+    }
+  },
+  "unreviewedScripts": [
+    {
+      "name": "sqlite3",
+      "version": "5.1.7",
+      "path": "/workspaces/Zayno.ma/ZAYNO v1.2/node_modules/sqlite3",
+      "scripts": {
+        "install": "(install scripts present)"
+      }
+    }
+  ]
+}
