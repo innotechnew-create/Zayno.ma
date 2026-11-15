@@ -10,7 +10,9 @@
     "admin:create": "node create-admin.js",
     "test": "node --test"
   },
-  "engines": { "node": ">=20" },
+  "engines": {
+    "node": ">=20"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cloudinary": "^2.5.1",
@@ -21,9 +23,20 @@
     "express-session": "^1.18.1",
     "helmet": "^8.0.0",
     "multer": "^2.0.2",
+    "sqlite3": "6.0.1",
     "stripe": "^17.7.0"
   },
   "devDependencies": {
     "supertest": "^7.1.1"
+  },
+  "allowScripts": {
+    "sqlite3@5.1.7": true,
+    "sqlite3@6.0.1": true
+  },
+  "overrides": {
+    "tar": "7.5.23",
+    "connect-sqlite3": {
+      "sqlite3": "5.1.7"
+    }
   }
 }
